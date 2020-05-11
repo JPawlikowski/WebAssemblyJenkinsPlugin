@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: demo
+Long-Name: TODO Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-05/08/2020 19:40-jakubp)
+Hudson-Version: 2.164.3
+Jenkins-Version: 2.164.3
+Plugin-Dependencies: structs:1.20
+Plugin-Developers: 
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/plugin-pom/demo
+Libraries: /Users/jakubp/Documents/workspace/jenkinsPlugins/demo-plugi
+ n/src/main/resources,/Users/jakubp/Documents/workspace/jenkinsPlugins
+ /demo-plugin/target/classes
+Resource-Path: /Users/jakubp/Documents/workspace/jenkinsPlugins/demo-p
+ lugin/src/main/webapp
+
